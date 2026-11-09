@@ -1,18 +1,18 @@
-# Hi, I'm Aastha 👋
+# Hey there, I'm Aastha 🕴🏻
 
 CSE student at ULAB, Bangladesh. I like building things that sit between code, hardware and art.
 
-### ▪️What I'm working on
+### ▫️What I'm working on
 -  **Finance Tracker**: a web app to log income and expenses and see where money goes (HTML, CSS, JavaScript)
 -  **Enceladus**: my art portfolio site for sketches, acrylics, digital art and crafts
 -  **[Keystone Hobby Planner](https://github.com/aastha-droid/keystone-hobby-planner)**: AI hobby planner built for the Ostad YUNet AIgnite Buildathon 2026
 
-### ▪️What I'm learning
+### ▫️What I'm learning
 - Front-end web development: HTML, CSS, JavaScript
 - Robotics: line follower robot, designing wheels in FreeCAD
 - Digital logic and FPGA with VHDL
 
-### ▪️Tech I use
+### ▫️Tech I use
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,7 +21,7 @@ CSE student at ULAB, Bangladesh. I like building things that sit between code, h
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-729FCF?style=flat&logo=freecad&logoColor=white)
 
-### ▪️Outside code
+### ▫️Outside code
 Painting, digital art, crafts, and gaming. Also, cheese is the best. 🧀
 
 ### 📫 Find me
