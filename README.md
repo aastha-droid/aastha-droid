@@ -1,4 +1,4 @@
-# Hey there, I'm Aastha 🕴🏻
+# Heya , I'm Aastha 🕴🏻
 
 CSE student at ULAB, Bangladesh. I like building things that sit between code, hardware and art.
 
