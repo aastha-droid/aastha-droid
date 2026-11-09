@@ -3,9 +3,9 @@
 CSE student at ULAB, Bangladesh. I like building things that sit between code, hardware and art.
 
 ### ▪️What I'm working on
-- 🔸 **Finance Tracker**: a web app to log income and expenses and see where money goes (HTML, CSS, JavaScript)
-- 🔸 **Enceladus**: my art portfolio site for sketches, acrylics, digital art and crafts
-- 🔸 **[Keystone Hobby Planner](https://github.com/aastha-droid/keystone-hobby-planner)**: AI hobby planner built for the Ostad YUNet AIgnite Buildathon 2026
+-  **Finance Tracker**: a web app to log income and expenses and see where money goes (HTML, CSS, JavaScript)
+-  **Enceladus**: my art portfolio site for sketches, acrylics, digital art and crafts
+-  **[Keystone Hobby Planner](https://github.com/aastha-droid/keystone-hobby-planner)**: AI hobby planner built for the Ostad YUNet AIgnite Buildathon 2026
 
 ### ▪️What I'm learning
 - Front-end web development: HTML, CSS, JavaScript
