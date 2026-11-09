@@ -22,7 +22,7 @@ CSE student at ULAB, Bangladesh. I like building things that sit between code, h
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-729FCF?style=flat&logo=freecad&logoColor=white)
 
 ### ▫️Outside code
-Painting, digital art, crafts, and gaming. Also, cheese is the best. 🧀
+Painting, digital art, crafts, and gaming. 
 
 ### 📫 Find me
 [LinkedIn](https://www.linkedin.com/in/tasfia-aastha) · [YouTube](https://www.youtube.com/@enchantress.1) · tasfia.aastha@gmail.com
