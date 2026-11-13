@@ -65,7 +65,7 @@ CSE student at ULAB, Bangladesh. I like building things that sit somewhere betwe
 Painting, digital art, crafts, and gaming. 
 
 ### 📫 Find me
-[LinkedIn](https://www.linkedin.com/in/tasfia-aastha) · [YouTube](https://www.youtube.com/@enchantress.1) · tasfia.tasneem.cse@ulab.edu.bd
+[LinkedIn](https://www.linkedin.com/in/tasfia-aastha) · [Instagram art](https://www.instagram.com/enceladus_nyx/) · [YouTube](https://www.youtube.com/@enchantress.1) · tasfia.aastha@gmail.com
 
 ### ▫️Hackathon projects
 - [Orbit Split on Devpost](https://devpost.com/software/orbit-split)
