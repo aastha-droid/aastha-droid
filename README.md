@@ -47,8 +47,6 @@ CSE student at ULAB, Bangladesh. I like building things that sit somewhere betwe
 
 **Hardware and embedded**
 
-**Hardware and embedded**
-
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat&logo=platformio&logoColor=white)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-729FCF?style=flat&logo=freecad&logoColor=white)
