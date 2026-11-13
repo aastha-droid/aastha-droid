@@ -2,10 +2,16 @@
 
 CSE student at ULAB, Bangladesh. I like building things that sit between code, hardware and art.
 
+### ▫️What I've built
+
+- **[Orbit Split](https://github.com/aastha-droid/orbit-split)**: describe a bill, and Gemini splits it. Each person gets a PayPal sandbox order, and a rocket launches when everyone has paid. Built for the PayPal AI Hackathon. [Live app](https://orbit-split-aastha.netlify.app/)
+- **[Keystone Hobby Planner](https://github.com/aastha-droid/keystone-hobby-planner)**: an AI hobby planner for beginners, built for the Ostad YUNet AIgnite Buildathon 2026. [Live app](https://radiant-selkie-d7bd4e.netlify.app)
+- **Arete**: [add one line about what it is]
+
 ### ▫️What I'm working on
--  **Finance Tracker**: a web app to log income and expenses and see where money goes (HTML, CSS, JavaScript)
--  **Enceladus**: my art portfolio site for sketches, acrylics, digital art and crafts
--  **[Keystone Hobby Planner](https://github.com/aastha-droid/keystone-hobby-planner)**: AI hobby planner built for the Ostad YUNet AIgnite Buildathon 2026
+
+- **Finance Tracker**: a web app to log income and expenses and see where money goes (HTML, CSS, JavaScript)
+- **Enceladus**: my art portfolio website for sketches, acrylics, digital art and crafts
 
 ### ▫️What I'm learning
 - Front-end web development: HTML, CSS, JavaScript
