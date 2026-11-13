@@ -74,8 +74,8 @@ CSE student at ULAB, Bangladesh. I like building things that sit somewhere betwe
 
 ### ▫️Outside code
 
-- **Art, crafts and creative experiments:** [Enceladus on Instagram](https://www.instagram.com/enceladus_nyx/)
-- **Gaming streams:** [Aastha Respawns on YouTube](https://www.youtube.com/@enchantress.1)
+- 🎨 **Art, crafts and creative experiments:** [Enceladus on Instagram](https://www.instagram.com/enceladus_nyx/)
+- 🎮 **Gaming streams:** [Aastha Respawns on YouTube](https://www.youtube.com/@enchantress.1)
 
 ---
 
