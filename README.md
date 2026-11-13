@@ -62,15 +62,22 @@ CSE student at ULAB, Bangladesh. I like building things that sit somewhere betwe
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 
-### ▫️Outside code
-Painting, digital art, crafts, and gaming.
+---
 
-- **Art, crafts and digital painting:** [Instagram](https://www.instagram.com/enceladus_nyx/)
-- **Gaming streams:** [YouTube](https://www.youtube.com/@enchantress.1)
+### ▫️Outside code
+
+- 🎨 **Art, crafts and manga-style comics:** [Instagram](https://www.instagram.com/enceladus_nyx/)
+- 🎮 **Gaming streams:** [YouTube](https://www.youtube.com/@enchantress.1)
+
+---
 
 ### 📫 Find me
+
 [LinkedIn](https://www.linkedin.com/in/tasfia-aastha) · tasfia.aastha@gmail.com
 
+---
+
 ### ▫️Hackathon projects
+
 - [Orbit Split on Devpost](https://devpost.com/software/orbit-split)
 - [Keystone on Devpost](https://devpost.com/software/keystone-ai-hobby-planner)
