@@ -10,7 +10,7 @@ CSE student at ULAB, Bangladesh. I like building things that sit somewhere betwe
 
 ### ▫️Hackathon on Devpost
 
-- [Orbit Split](https://devpost.com/software/orbit-split)
+- [Orbit-split](https://devpost.com/software/orbit-split)
 - [Keystone](https://devpost.com/software/keystone-ai-hobby-planner)
 
 ---
