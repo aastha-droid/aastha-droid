@@ -8,16 +8,25 @@ CSE student at ULAB, Bangladesh. I like building things that sit somewhere betwe
 - **[Keystone](https://github.com/aastha-droid/keystone-hobby-planner)**: an AI hobby planner that tells beginners what to buy before they start, so they don't waste money. [Live app](https://radiant-selkie-d7bd4e.netlify.app)
 - **Arete**: a YouTube course tracker where each course orbits as a planet around your progress. [Live app](https://majestic-sunflower-9046a9.netlify.app/#/)
 
+### ▫️Hackathon projects
+
+- [Orbit Split on Devpost](https://devpost.com/software/orbit-split)
+- [Keystone on Devpost](https://devpost.com/software/keystone-ai-hobby-planner)
+
+---
+
 ### ▫️What I'm working on
 
 - **Finance Tracker**: log income and expenses and see where your money goes
 - **Enceladus**: my art portfolio site for sketches, acrylics, digital art and crafts
 
-
 ### ▫️What I'm learning
+
 - Front-end web development: HTML, CSS, JavaScript
 - Robotics: line follower robot, designing wheels in FreeCAD
 - Digital logic and FPGA with VHDL
+
+---
 
 ### ▫️Tech I use
 
@@ -73,10 +82,3 @@ CSE student at ULAB, Bangladesh. I like building things that sit somewhere betwe
 ### 📫 Find me
 
 [LinkedIn](https://www.linkedin.com/in/tasfia-aastha) · tasfia.aastha@gmail.com
-
----
-
-### ▫️Hackathon projects
-
-- [Orbit Split on Devpost](https://devpost.com/software/orbit-split)
-- [Keystone on Devpost](https://devpost.com/software/keystone-ai-hobby-planner)
