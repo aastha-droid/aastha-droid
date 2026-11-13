@@ -50,13 +50,14 @@ CSE student at ULAB, Bangladesh. I like building things that sit somewhere betwe
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat&logo=platformio&logoColor=white)
 ![Gowin EDA](https://img.shields.io/badge/Gowin_EDA-0F6FC6?style=flat)
-![CircuitVerse](https://img.shields.io/badge/CircuitVerse-42B883?style=flat)
+![CircuitVerse](https://img.shields.io/badge/CircuitVerse-42B883?style=flat&logo=circuitverse&logoColor=white)
 ![TerosHDL](https://img.shields.io/badge/TerosHDL-6D4AFF?style=flat)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-729FCF?style=flat&logo=freecad&logoColor=white)
 
 **Design**
 
 ![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-6C5CE7?style=flat)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ### ▫️Outside code
 Painting, digital art, crafts, and gaming. 
