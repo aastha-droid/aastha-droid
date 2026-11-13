@@ -20,7 +20,6 @@ CSE student at ULAB, Bangladesh. I like building things that sit somewhere betwe
 - Digital logic and FPGA with VHDL
 
 ### ▫️Tech I use
-### ▫️Tech I use
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
