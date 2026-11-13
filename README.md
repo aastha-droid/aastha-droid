@@ -61,13 +61,12 @@ CSE student at ULAB, Bangladesh. I like building things that sit somewhere betwe
 ![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-6C5CE7?style=flat)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
-
 ---
 
 ### ▫️Outside code
 
-- 🎨 **Art, crafts and manga-style comics:** [Instagram](https://www.instagram.com/enceladus_nyx/)
-- 🎮 **Gaming streams:** [YouTube](https://www.youtube.com/@enchantress.1)
+- 🎨 **Art, crafts and creative experiments:** [Enceladus on Instagram](https://www.instagram.com/enceladus_nyx/)
+- 🎮 **Gaming streams:** [Aastha Respawns on YouTube](https://www.youtube.com/@enchantress.1)
 
 ---
 
